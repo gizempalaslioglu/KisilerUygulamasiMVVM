@@ -1,1 +1,1 @@
-Android Retrofit Kütüphanesi kullanılarak web servisten kişiler verileri çekilip kişi ekleme,silme ve güncelleme örneği
+Example of adding, deleting and updating contacts by pulling contacts data from web service using Android Retrofit Library
